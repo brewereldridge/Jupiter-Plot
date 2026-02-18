@@ -1,0 +1,256 @@
+*******************************************************************************
+ Revised: Mar 12, 2021           Europa / (Jupiter)                         502
+
+ SATELLITE PHYSICAL PROPERTIES:
+  Mean radius (km)       = 1560.8   +- 0.3    Density (g cm^-3)= 3.013 +- 0.005
+  GM   (km^3/s^2)        = 3202.7121+- 0.0054 Geometric Albedo = 0.67 +/- 0.03  
+
+ SATELLITE ORBIT (at J2000.0 epoch, 2000-Jan-1.5):
+  Semi-major axis, a (km) ~ 671,000           Orbital period   ~ 3.55 d
+  Eccentricity, e         ~ 0.00981        Rotational period   = Synchronous
+  Inclination, i  (deg)   ~ 0.462
+*******************************************************************************
+
+
+*******************************************************************************
+Ephemeris / WWW_USER Wed Feb 18 05:38:54 2026 Pasadena, USA      / Horizons    
+*******************************************************************************
+Target body name: Europa (502)                    {source: jup365_merged}
+Center body name: Earth (399)                     {source: DE441}
+Center-site name: (user defined site below)
+*******************************************************************************
+Start time      : A.D. 1610-Jan-01 00:00:00.0000 UT      
+Stop  time      : A.D. 1610-Jan-15 23:59:00.0000 UT      
+Step-size       : 1440 minutes
+*******************************************************************************
+Target pole/equ : IAU_EUROPA                      {West-longitude positive}
+Target radii    : 1562.6, 1560.3, 1559.5 km       {Equator_a, b, pole_c}       
+Center geodetic : 45.4064, 11.8768, .013          {E-lon(deg),Lat(deg),Alt(km)}
+Center cylindric: 45.4064, 6242.49422, 1304.07138 {E-lon(deg),Dxy(km),Dz(km)}
+Center pole/equ : ITRF93                          {East-longitude positive}
+Center radii    : 6378.137, 6378.137, 6356.752 km {Equator_a, b, pole_c}       
+Target primary  : Jupiter
+Vis. interferer : MOON (R_eq= 1737.400) km        {source: DE441}
+Rel. light bend : Sun                             {source: jup365_merged}
+Rel. lght bnd GM: 1.3271E+11 km^3/s^2                                          
+Atmos refraction: NO (AIRLESS)
+RA format       : HMS
+Time format     : CAL 
+Calendar mode   : Mixed Julian/Gregorian
+EOP file        : eop.260217.p260516                                           
+EOP coverage    : DATA-BASED 1962-JAN-20 TO 2026-FEB-17. PREDICTS-> 2026-MAY-15
+Units conversion: 1 au= 149597870.700 km, c= 299792.458 km/s, 1 day= 86400.0 s 
+Table cut-offs 1: Elevation (-90.0deg=NO ),Airmass (>38.000=NO), Daylight (NO )
+Table cut-offs 2: Solar elongation (  0.0,180.0=NO ),Local Hour Angle( 0.0=NO )
+Table cut-offs 3: RA/DEC angular rate (     0.0=NO )                           
+*****************************************************************************************************************************************************************************************************
+ Date__(UT)__HR:MN     R.A._____(ICRF)_____DEC  Azi____(a-app)___Elev    APmag   S-brt             delta      deldot     S-O-T /r     S-T-O  Sky_motion  Sky_mot_PA  RelVel-ANG  Lun_Sky_Brt  sky_SNR
+*****************************************************************************************************************************************************************************************************
+$$SOE
+ 1610-Jan-01 00:00     05 10 33.93 +22 29 51.4  289.329823  19.065840    5.416   5.201  4.21367840589898  13.7174540  152.5836 /T    5.0831   0.5376594   263.51267   26.602413         n.a.     n.a.
+ 1610-Jan-02 00:00     05 09 50.96 +22 29 22.6  289.427413  17.990298    5.427   5.205  4.22684016968503  27.7227794  151.3988 /T    5.2772   0.2134438   266.79537   68.525658         n.a.     n.a.
+ 1610-Jan-03 00:00     05 09 45.69 +22 29 32.6  289.533012  17.060916    5.437   5.208  4.23823375211322   9.2768837  150.3596 /T    5.4460   0.0084570   262.47839   87.326036         n.a.     n.a.
+ 1610-Jan-04 00:00     05 09 26.36 +22 29 08.0  289.638183  16.077445    5.437   5.207  4.23993077633007   3.8919355  149.2657 /T    5.6393   0.4036404   262.37398   10.649816         n.a.     n.a.
+ 1610-Jan-05 00:00     05 08 36.81 +22 28 19.5  289.752482  14.978039    5.442   5.208  4.24797442569168  25.3213829  148.0554 /T    5.8413   0.4315517   264.41234   48.807471         n.a.     n.a.
+ 1610-Jan-06 00:00     05 08 14.50 +22 28 16.3  289.877624  13.984929    5.348   5.105  4.26377576920159  23.6025514  146.9510 /T    6.0091   0.0160254   300.25989   87.995800         n.a.     n.a.
+ 1610-Jan-07 00:00  m  05 08 13.43 +22 28 21.4  290.003182  13.074212    5.351   5.105  4.27077103915380   3.5945066  145.9283 /T    6.1764   0.1363962   260.65129   27.039737        3.588    1.423
+ 1610-Jan-08 00:00  m  05 07 38.11 +22 27 38.9  290.134047  12.031702    5.351   5.103  4.27416083150117  14.6046958  144.7733 /T    6.3717   0.4844716   263.11445   30.259069        3.767    1.355
+ 1610-Jan-09 00:00  m  05 06 57.16 +22 27 08.4  290.277550  10.968778    5.361   5.106  4.28831533387436  31.0816804  143.5971 /T    6.5492   0.2123621   266.62401   70.497006        3.742    1.364
+ 1610-Jan-10 00:00  m  05 06 54.08 +22 27 23.2  290.423701  10.053116    5.371   5.108  4.30249030249054  14.6078372  142.5675 /T    6.6994   0.0496509   80.332488   79.975488        3.544    1.441
+ 1610-Jan-11 00:00  m  05 06 43.32 +22 27 09.6  290.570721   9.108031    5.371   5.107  4.30637042093320   5.7589237  141.5077 /T    6.8725   0.3140500   261.87792   19.402049        2.886    1.770
+ 1610-Jan-12 00:00  m  05 05 59.82 +22 26 23.8  290.730738   8.037607    5.376   5.106  4.31498773415472  26.5289329  140.3217 /T    7.0560   0.4080280   264.08122   51.260623        2.378    2.147
+ 1610-Jan-13 00:00  m  05 05 38.45 +22 26 20.8  290.898311   7.054278    5.388   5.110  4.33251408411172  28.4025542  139.2218 /T    7.2055   0.0127660   20.362980   88.651564        1.984    2.575
+ 1610-Jan-14 00:00  m  05 05 43.04 +22 26 35.8  291.062853   6.171746    5.394   5.110  4.34235312344102   7.5032307  138.2220 /T    7.3515   0.0461754   257.69447   72.097806        1.705    2.996
+ 1610-Jan-15 00:00  m  05 05 16.83 +22 26 02.5  291.236594   5.170882    5.394   5.108  4.34689166299036  15.1822962  137.1029 /T    7.5261   0.4170074   262.75154   34.714916        1.507    3.390
+$$EOE
+*****************************************************************************************************************************************************************************************************
+Column meaning:
+ 
+TIME
+
+  Times PRIOR to 1962 are UT1, a mean-solar time closely related to the
+prior but now-deprecated GMT. Times AFTER 1962 are in UTC, the current
+civil or "wall-clock" time-scale. UTC is kept within 0.9 seconds of UT1
+using integer leap-seconds for 1972 and later years.
+
+  Conversion from the internal Barycentric Dynamical Time (TDB) of solar
+system dynamics to the non-uniform civil UT time-scale requested for output
+has not been determined for UTC times after the next July or January 1st.
+Therefore, the last known leap-second is used as a constant over future
+intervals.
+
+  Time tags refer to the UT time-scale conversion from TDB on Earth
+regardless of observer location within the solar system, although clock
+rates may differ due to the local gravity field and no analog to "UT"
+may be defined for that location.
+
+  Any 'b' symbol in the 1st-column denotes a B.C. date. First-column blank
+(" ") denotes an A.D. date.
+ 
+CALENDAR SYSTEM
+
+  Mixed calendar mode was active such that calendar dates after AD 1582-Oct-15
+(if any) are in the modern Gregorian system. Dates prior to 1582-Oct-5 (if any)
+are in the Julian calendar system, which is automatically extended for dates
+prior to its adoption on 45-Jan-1 BC.  The Julian calendar is useful for
+matching historical dates. The Gregorian calendar more accurately corresponds
+to the Earth's orbital motion and seasons. A "Gregorian-only" calendar mode is
+available if such physical events are the primary interest.
+
+  NOTE: "n.a." in output means quantity "not available" at the print-time.
+ 
+SOLAR PRESENCE (OBSERVING SITE)
+  Time tag is followed by a blank, then a solar-presence symbol:
+
+       '*'  Daylight (refracted solar upper-limb on or above apparent horizon)
+       'C'  Civil twilight/dawn
+       'N'  Nautical twilight/dawn
+       'A'  Astronomical twilight/dawn
+       ' '  Night OR geocentric ephemeris
+
+LUNAR PRESENCE (OBSERVING SITE)
+  The solar-presence symbol is immediately followed by a lunar-presence symbol:
+
+       'm'  Refracted upper-limb of Moon on or above apparent horizon
+       ' '  Refracted upper-limb of Moon below apparent horizon OR geocentric
+            ephemeris
+ 
+ 'R.A._____(ICRF)_____DEC' =
+  Astrometric right ascension and declination of the target center with
+respect to the observing site (coordinate origin) in the reference frame of
+the planetary ephemeris (ICRF). Compensated for down-leg light-time delay
+aberration.
+
+  Units: RA  in hours-minutes-seconds of time,    HH MM SS.ff{ffff}
+         DEC in degrees-minutes-seconds of arc,  sDD MN SC.f{ffff}
+ 
+ 'Azi____(a-app)___Elev' =
+  Airless apparent azimuth and elevation of target center. Compensated
+for light-time, the gravitational deflection of light, stellar aberration,
+precession and nutation. Azimuth is measured clockwise from north:
+
+  North(0) -> East(90) -> South(180) -> West(270) -> North (360)
+
+Elevation angle is with respect to a plane perpendicular to the reference
+surface local zenith direction. TOPOCENTRIC ONLY.  Units: DEGREES
+ 
+ 'APmag   S-brt' =
+  The targets' approximate apparent visual magnitude and surface brightness.
+For planets and natural satellites, output is restricted to solar phase angles
+covered by observational data. Outside the observed phase angle range, "n.a."
+may be output to avoid extrapolation beyond the limit of model validity.
+
+   For Earth-based observers, the estimated dimming due to atmospheric
+absorption (extinction) is available as a separate, requestable quantity.
+
+   Surface brightness is the average airless visual magnitude of a
+square-arcsecond of the illuminated portion of the apparent disk. It is
+computed only if the target radius is known.
+
+   Units: MAGNITUDES & MAGNITUDES PER SQUARE ARCSECOND
+ 
+ 'delta      deldot' =
+   Apparent range ("delta", light-time aberrated) and range-rate ("delta-dot")
+of the target center relative to the observer. A positive "deldot" means the
+target center is moving away from the observer, negative indicates movement
+toward the observer.  Units: AU and KM/S
+ 
+ 'S-O-T /r' =
+   Sun-Observer-Target apparent SOLAR ELONGATION ANGLE seen from the observers'
+location at print-time.
+
+   The '/r' column provides a code indicating the targets' apparent position
+relative to the Sun in the observers' sky, as described below:
+
+   Case A: For an observing location on the surface of a rotating body, that
+body rotational sense is considered:
+
+    /T indicates target TRAILS Sun   (evening sky: rises and sets AFTER Sun)
+    /L indicates target LEADS Sun    (morning sky: rises and sets BEFORE Sun)
+
+   Case B: For an observing point that does not have a rotational model (such
+as a spacecraft), the "leading" and "trailing" condition is defined by the
+observers' heliocentric ORBITAL motion:
+
+    * If continuing in the observers' current direction of heliocentric
+       motion would encounter the targets' apparent longitude first, followed
+       by the Sun's, the target LEADS the Sun as seen by the observer.
+
+    * If the Sun's apparent longitude would be encountered first, followed
+       by the targets', the target TRAILS the Sun.
+
+   Two other codes can be output:
+    /* indicates observer is Sun-centered    (undefined)
+    /? Target is aligned with Sun center     (no lead or trail)
+
+   The S-O-T solar elongation angle is numerically the minimum separation
+angle of the Sun and target in the sky in any direction. It does NOT indicate
+the amount of separation in the leading or trailing directions, which would
+be defined along the equator of a spherical coordinate system.
+
+   Units: DEGREES
+ 
+ 'S-T-O' =
+   The Sun-Target-Observer angle; the interior vertex angle at target center
+formed by a vector from the target to the apparent center of the Sun (at
+reflection time on the target) and the apparent vector from target to the
+observer at print-time. Slightly different from true PHASE ANGLE (requestable
+separately) at the few arcsecond level in that it includes stellar aberration
+on the down-leg from target to observer.  Units: DEGREES
+ 
+ 'Sky_motion  Sky_mot_PA  RelVel-ANG' =
+  Total apparent angular rate of the target in the plane-of-sky. "Sky_mot_PA"
+is the position angle of the target's direction of motion in the plane-of-sky,
+measured counter-clockwise from the apparent of-date north pole direction.
+"RelVel-ANG" is the flight path angle of the target's relative motion with
+respect to the observer's line-of-sight, in the range [-90,+90], where positive
+values indicate motion away from the observer, negative values are toward the
+observer:
+
+  -90 = target is moving directly toward the observer
+    0 = target is moving at right angles to the observer's line-of-sight
+  +90 = target is moving directly away from the observer
+
+UNITS:  ARCSECONDS/MINUTE, DEGREES, DEGREES
+ 
+ 'Lun_Sky_Brt  sky_SNR' =
+  Sky brightness due to moonlight scattered by Earth's atmosphere at the
+target's position in the sky. "sky_SNR" is the visual signal-to-noise ratio
+(SNR) of the target's surface brightness relative to background sky. Output
+only for topocentric Earth observers when both the Moon and target are above
+the local horizon and the Sun is in astronomical twilight (or further) below
+the horizon, and the target is not the Moon or Sun. If all conditions are
+not met, "n.a." is output. Galactic brightness, local sky light-pollution
+and weather are NOT considered. Lunar opposition surge is considered. The
+value returned is accurate under ideal conditions at the approximately 8-23%
+level, so is a useful but not definitive value.
+
+  If the target-body radius is also known, "sky_SNR" is output. This is the
+approximate visual signal-to-noise ratio of the target's brightness divided
+by lunar sky brightness. When sky_SNR < 1, the target is dimmer than the
+ideal moonlight-scattering background sky, so unlikely to be detectable at
+visual wavelengths. In practice, visibility requires sky_SNR > 1 and a
+detector sensitive enough to reach the target's magnitude, even if it isn't
+washed out by moonlight. When relating magnitudes and brightness values,
+keep in mind their logarithmic relationship m2-m1 = -2.5*log_10(b2/b1).
+
+  UNITS: VISUAL MAGNITUDES / ARCSECOND^2, and unitless ratio
+
+Computations by ...
+
+    Solar System Dynamics Group, Horizons On-Line Ephemeris System
+    4800 Oak Grove Drive, Jet Propulsion Laboratory
+    Pasadena, CA  91109   USA
+
+    General site: https://ssd.jpl.nasa.gov/
+    Mailing list: https://ssd.jpl.nasa.gov/email_list.html
+    System news : https://ssd.jpl.nasa.gov/horizons/news.html
+    User Guide  : https://ssd.jpl.nasa.gov/horizons/manual.html
+    Connect     : browser        https://ssd.jpl.nasa.gov/horizons/app.html#/x
+                  API            https://ssd-api.jpl.nasa.gov/doc/horizons.html
+                  command-line   telnet ssd.jpl.nasa.gov 6775
+                  e-mail/batch   https://ssd.jpl.nasa.gov/ftp/ssd/horizons_batch.txt
+                  scripts        https://ssd.jpl.nasa.gov/ftp/ssd/SCRIPTS
+    Author      : Jon.D.Giorgini@jpl.nasa.gov
+
+*****************************************************************************************************************************************************************************************************
